@@ -54,8 +54,8 @@ Poniżej znajdziesz wszytko, co jest Ci potrzebne do rozpoczęcia przygody z ser
 
 Jeśli powyższe materiały nie okazały się wystarczająco pomocne, zawsze możesz poszukać pomocy w tych dwóch miejscach:
 
-- [**Grupa na Facebooku**](https://www.facebook.com/groups/mikrusy)
-- [**Serwer na Discord**](https://discord.gg/hFcqJGkppq)
+- [**Grupa na Facebooku**](https://mikr.us/facebook)
+- [**Serwer na Discord**](https://mikr.us/discord)
 
 > 💡 Chcesz zaproponować jakieś zmiany? A może chcesz napisać dodatkowy poradnik? Ta dokumentacja [jest dostępna na GitHub](https://github.com/Mrugalski-pl/mikrus-dokumentacja)!
 

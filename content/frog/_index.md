@@ -33,8 +33,8 @@ Przelew taki wynosi **5zł**, ale wpłatę możesz dobrowolnie powiększyć, je�
 
 Serwery “Frog” posiadają ’wsparcie społecznościowe’ świadczone w dwojaki sposób:
 
-- [Na grupie na Facebooku](https://www.facebook.com/groups/mikrusy)
-- [Na Discordzie](https://discord.gg/a7aZPGEQAZ)
+- [Na grupie na Facebooku](https://mikr.us/facebook)
+- [Na Discordzie](https://mikr.us/discord)
 
 Ze względu na to, że jest to oferta bezpłatna, wsparcie techniczne dla tych serwerów (świadczone przez Administratorów) ogranicza się jedynie do reinstalacji systemu oraz udostępnienia backupu systemu w razie zupełnego uszkodzenia serwera przez Użytkownika. W razie poważnych problemów możesz pisać na frog@mikr.us. Reinstalacje możesz wykonać sam w [SSP](https://ssp.frog01.mikr.us/login)
 
@@ -64,7 +64,7 @@ Każdy użytkownik otrzymuje dostęp do współdzielonej bazy danych MySQL (umow
 
 **/root/mysql.txt**
 
-
+> 💡 Panel PHP My Admin dla froga dostępny jest tutaj => https://frog01.mikr.us/pma/
 > 🛑 Uwaga: hasło dostępowe zmienia się po każdej reinstalacji serwera, ale reinstalacja serwera NIE usuwa danych w bazie.
 
 
