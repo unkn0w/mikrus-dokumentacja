@@ -57,6 +57,12 @@
 - Czy do serwera można podpiąć własną domenę?
     
     Tak. Można to zrobić na kilka sposobów. Jednym z nich jest użycie [darmowej usługi CloudFlare](../podpiecie_domeny_przez_cloudflare), a drugi to użycie [naszych wewnętrznych mechanizmów](../cytrus).
+
+- Czy na Mikrusie można postawić własny serwer poczty?
+
+    Nie. Ze względu na współdzielony adres IPv4 nie jest możliwe uruchomienie własnej poczy przychodzącej. Na [Outsiderze](../outsider) możesz skonfigurować współdzielony serwer poczty. 
+
+
     
 
 ## Co wolno, a czego nie wolno
@@ -87,6 +93,10 @@
 - Na jakim łączu stoją serwery?
     
     Serwery Mikrusa posiadają łącze 1Gbps
+
+- Czy adresy IPv4 serwerów są stałe?
+
+    Tak. W przypadku ewentualnej zmiany *(mało prawdopodobne lecz nie niemożliwe)* wszyscy właściciele VPS-ów zostaną poinformowani
     
 
 ## Zdobądź swojego Mikrusa na 👇

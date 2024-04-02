@@ -42,12 +42,12 @@ Poniżej znajdziesz wszytko, co jest Ci potrzebne do rozpoczęcia przygody z ser
 
 ### Częste problemy i ich rozwiązania
 
+- [**FAQ - najczęściej zadawane pytania**](faq_najczesciej_zadawane_pytania)
 - [Pętla przekierowań na CloudFlare (ssl)](petla_przekierowan_na_cloudflare_ssl)
 - [Error 521 na CloudFlare](error_521_na_cloudflare)
 - [Cytrus nie podaje stron](cytrus_nie_podaje_stron)
 - [Błąd SSH (remote host identification has changed!)](blad_ssh_remote_host_identification_has_changed)
 - [Too many authentication failures [preauth]](too_many_authentication_failures_preauth)
-- [FAQ - najczęściej zadawane pytania](faq_najczesciej_zadawane_pytania)
 - [Który serwer Mikrusa powinienem wybrać?](https://mikr.us/ktory)
 - [Ograniczenia techniczne Mikrusa](ograniczenia_techniczne_mikrusa)
 - [Program przestaje działać gdy zamykam ssh!](program_przestaje_dzialac_gdy_zamykam_ssh)
