@@ -53,6 +53,17 @@ Od tej chwili możesz logować się na swojego Mikrusa bez podawania hasła.
 
 Na niektórych systemach da się to wszystko osiągnąć szybciej i sprawniej, ale instrukcja napisana jest tak, aby bez modyfikacji działała na Linuksie, Windowsie i Macu.
 
+> Jeśli na Macu komenda ssh wymaga hasła po skonfigurowania klucza ssh:
+
+edytuj plik `~/.ssh/config`, utwórz w nim konfigurację dla swojego serwera mikrusa (srvX) oraz wskaż ścieżkę do klucza na dysku:
+
+```
+Host srvX.mikr.us
+  PubkeyAuthentication yes
+  IdentityFile ~/.ssh/mikrus
+```
+
+Od teraz łączenie z serwerem nie będzie wymagać podania hasła root'a (jeśli ustawiłeś hasło klucza ssh, będzie ono wymagane)
 
 > 💡 **Uwaga**
 > Jeśli używasz Windowsa i dostajesz komunikaty z błędami przy "**ssh-add**", oznacza to, że nie aktywowałeś usługi "OpenSSH Authentication Agent". W menu "usługi" w systemie zmień jej tryb na "Automatyczny" i to rozwiąże problem
