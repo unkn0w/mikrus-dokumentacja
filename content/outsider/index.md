@@ -55,6 +55,10 @@ Wartość wpisu to:
 v=spf1 a mx include:outsider.mikr.us ~all
 ```
 
+**Pamiętaj** o konfiguracji zaawansowanej maila, dzięki niej zmniejszysz ryzyko odrzucenia Twojej wiadomości przez serwer pocztowy odbiorcy maila.
+
+[Kliknij tutaj aby dowiedzieć się jak dokończyć konfigurację skrzynki email](mail)
+
 Jeśli wraz z pocztą chcesz hostować także strony WWW, to musisz jeszcze wygenerować wymagane certyfikaty SSL dla swojej domeny:
 
 1. W panelu Outsidera kliknij “Certyfikaty SSL”
