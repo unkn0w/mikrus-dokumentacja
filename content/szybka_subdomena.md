@@ -4,7 +4,7 @@ Jeśli chcesz podpiąć tymczasową, darmową subdomenę do swojej aplikacji po
 
 Oto wideo instrukcja:
 
-[https://vimeo.com/901911932](https://vimeo.com/901911932?share=copy)
+{{< vimeo id="901911932" image="/uploads/resizeallimages.png" >}}
 
 ## Podpięcie losowej subdomeny do wybranego portu
 
