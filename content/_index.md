@@ -39,7 +39,7 @@ Poniżej znajdziesz wszytko, co jest Ci potrzebne do rozpoczęcia przygody z ser
 - [Django + PostgreSQL](django_postgresql)
 - [Połączenie z Mikrusa do lokalnego serwera](polaczenie_z_mikrusa_do_lokalnego_serwera)
 - [Ograniczenie adresów IP które mają dostęp serwera w NGINX](nginx_ograniczenie_dostepu_po_ip)
-- [Nginx - publikacja prostej strony](nginx_publikacja_prostej_strony.md)
+- [Nginx - publikacja prostej strony](nginx_publikacja_prostej_strony)
 
 ### Częste problemy i ich rozwiązania
 
