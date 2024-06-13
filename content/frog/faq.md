@@ -10,7 +10,7 @@
     
 - **Jeśli to oferta DARMOWA, to po co opłata aktywacyjna?**
     
-    Jak się domyślasz, opłata aktywacyjna nijak nie wystarczy na pokrycie nawet kilku procent wartości serwera. Po odliczeniu VAT-u i PIT-u zostaje tyle, co nic. Opłata ta służy do weryfikacji użytkownika. Posiadając Twoje dane z przelewu (nawet z Blika) możemy w razie problemów dochodzić swoich praw, a (gdy będzie to konieczne) z pomocą organów ścigania dojść do tego, kim jesteś. Niestety oferta darmowa to niezły wabik na mało rozgarniętych sieciowych wandali i trolli. Stąd to zabezpieczenie.
+    FROG nie został stworzony, aby przynosił zyski. Po odliczeniu VAT-u i PIT-u z opłaty aktywacyjnej zostaje niewiele, ale wystarczająco, jak na pokrycie kosztów serwera. Opłata ta służy do weryfikacji użytkownika. Posiadając Twoje dane z przelewu (nawet z Blika) możemy w razie problemów dochodzić swoich praw, a (gdy będzie to konieczne) z pomocą organów ścigania dojść do tego, kim jesteś. Niestety oferta darmowa to niezły wabik na mało rozgarniętych sieciowych wandali i trolli. Stąd to zabezpieczenie.
     
 - **Czy mogę przenieść się na płatną ofertę?**
     
