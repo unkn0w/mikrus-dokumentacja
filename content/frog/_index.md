@@ -15,7 +15,7 @@ Przelew taki wynosi **5zł**, ale wpłatę możesz dobrowolnie powiększyć, je�
 
 > 🆘 Reinstalacja lub odzyskanie hasła? Sprawdź nasz portal: [https://ssp.frog01.mikr.us/](https://ssp.frog01.mikr.us/login)
 
-> 👉🏻 Loginem do portalu jest 3-cyfrowy ID, czyli jak Twój Frog ma w nazwie f1**853**, to Twoim ID jest 853.
+> 👉🏻 Loginem do portalu jest 3 (lub 4) cyfrowy  ID, czyli jak Twój Frog ma w nazwie f1**853**, to Twoim ID jest 853.
 
 
 ## Parametry serwera
