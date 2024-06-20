@@ -13,6 +13,10 @@ Usługa ta natywnie wspiera strony statyczne oraz te tworzone w języku PHP (np.
 - możliwość dostępu do serwera za pomocą współdzielonego serwera FTP
 - obsługa dowolnej liczby domen
 
+**Ograniczenia:**
+- Cytrus jest współdzielony więc aby zapewnić komfortowe działanie wszystkim użytkownikom, utrzymuj rozmiar wszystkich plików  poniżej 3 GB
+- Ze względu na to że cytrus jest na osobnej, mocniejszej maszynie podążanie za symlinkami na VPS-a nie jest możliwe
+
 **Ciekawostki**
 
 - jeśli zamiast katalogu docelowego podasz adres domenowy lub adres IP serwera wraz z numerem portu, to Cytrus przekieruje na niego ruch (podaj np: http://1.2.3.4:3000)
