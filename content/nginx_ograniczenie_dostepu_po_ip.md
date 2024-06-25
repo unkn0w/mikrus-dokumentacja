@@ -52,3 +52,5 @@ server {
 ```
 
 > *Poradnik napisany przez [Zygfryda Wieszoka](https://github.com/zygfrydw) i można go znaleźć [tutaj](https://gist.github.com/zygfrydw/f5504a3c67f1eb5087c683a2d8c0e144)*
+
+[Powrót do strony głównej](/)

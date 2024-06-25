@@ -35,3 +35,5 @@ cfdisk /dev/sdb
 mkfs.ext4 /dev/sdb1
 mount /dev/sdb1 /storage/
 ```
+
+[Powrót do strony głównej](/)
