@@ -62,7 +62,9 @@
 
     Nie. Ze względu na współdzielony adres IPv4 nie jest możliwe uruchomienie własnej poczy przychodzącej. Na [Outsiderze](../outsider) możesz skonfigurować współdzielony serwer poczty. 
 
-
+- Jakie dystrybucje Linuxa są dostępne na Mikrusie?
+    
+    Pełna lista dystrybucji dostępna jest [tutaj](../dystrybucje_linuxa)
     
 
 ## Co wolno, a czego nie wolno
