@@ -12,6 +12,4 @@ Dodatkową zaletą Mariana jest możliwość uruchomienia dowolnej listy polece�
 
 Warto uruchomić Mariana przed zgłoszeniem problemu do adminów.
 
-UWAGA: Marian nie działa na serwerach z serii 1.0
-
 [Powrót do strony głównej](/)
