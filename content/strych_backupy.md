@@ -6,30 +6,29 @@ Warto efektywnie wykorzystać tę przestrzeń, wykonując tam nie pełne backupy
 
 ### **JAK TO ZROBIĆ?**
 
-Poniższa instrukcja przeznaczona jest dla serwerów 2.0.
+Poniższa instrukcja przeznaczona jest dla serwerów z systemem zarządzania pakietami apt, np. Ubuntu.
 
-1. Aktywuj w panelu dostęp do serwera backupowego (menu "Backup"
-2. zainstaluj niezbędne oprogramowanie systemoweapt install acl rsync
-3. ściągnij aplikację do backupu:
+1. Aktywuj w panelu dostęp do serwera backupowego (menu "Backup")
+2. Ściągnij aplikację do backupu:
 ```bash
 wget https://mikr.us/tools/rsnappush -O /usr/bin/rsnappush
 ```
-4. Zainstaluj aplikację, z której korzysta pod spodem rsnappush:
+3. Zainstaluj aplikację, z której korzysta pod spodem rsnappush:
 ```bash
-apt install acl
+apt install acl rsync
 ```
-5. Spraw, aby aplikacja do backupu była wykonywalna:
-```
+4. Spraw, aby aplikacja do backupu była wykonywalna:
+```bash
 chmod +x /usr/bin/rsnappush
 ```
-6. Utwórz na swoim mikrusie plik ~/.ssh/config o następującej zawartości (**podmień usera na własnego**)
+5. Utwórz na swoim mikrusie plik ~/.ssh/config o następującej zawartości (**podmień usera na własnego**)
 ```
 Host strych.mikr.us
      user **a100**
     IdentityFile /backup_key
 ```
-7. Backupuj co tylko zechcesz:
-```
+6. Backupuj co tylko zechcesz:
+```bash
 rsnappush /etc strych.mikr.us:~/
 ```
 

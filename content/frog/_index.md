@@ -38,7 +38,7 @@ Serwery “Frog” posiadają ’wsparcie społecznościowe’ świadczone w dwo
 
 Ze względu na to, że jest to oferta bezpłatna, wsparcie techniczne dla tych serwerów (świadczone przez Administratorów) ogranicza się jedynie do reinstalacji systemu oraz udostępnienia backupu systemu w razie zupełnego uszkodzenia serwera przez Użytkownika. W razie poważnych problemów możesz pisać na frog@mikr.us. Reinstalacje możesz wykonać sam w [SSP](https://ssp.frog01.mikr.us/login)
 
-> 💡 [Tutaj znajdziesz odstawy obsługi Linuxa Alpine](alpine)
+> 💡 [Tutaj znajdziesz podstawy obsługi Linuxa Alpine](alpine)
 
 ## Ograniczenia
 
