@@ -41,3 +41,5 @@ Teraz możemy sprawdzić konfigurację, która powinna świecić się na zielono
 Po tygodniu testów możemy zmienić wartość `p` zgodnie z zaleceniami w artykule Google'a.
 
 **Gratulacje!**
+
+[Powrót do strony głównej](/)
