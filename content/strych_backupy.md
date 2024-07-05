@@ -24,8 +24,8 @@ chmod +x /usr/bin/rsnappush
 5. Utwórz na swoim mikrusie plik ~/.ssh/config o następującej zawartości (**podmień usera na własnego**)
 ```
 Host strych.mikr.us
-     user **a100**
-    IdentityFile /backup_key
+     user a100
+     IdentityFile /backup_key
 ```
 6. Backupuj co tylko zechcesz:
 ```bash
