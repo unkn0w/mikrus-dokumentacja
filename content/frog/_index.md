@@ -4,7 +4,7 @@ layout = "single"
 
 # Mikrus Frog
 
-Serwery ‘Frog’ to VPS-y z darmowej oferty Mikrusa ([http://mikr.us](https://mikr.us)).
+Serwery ‘Frog’ to VPS-y z darmowej oferty Mikrusa (<https://mikr.us/>).
 
 Możesz posiadać **JEDEN** taki serwer.
 
@@ -13,7 +13,7 @@ Do aktywacji serwera konieczne jest wykonanie “opłaty aktywacyjnej”. Nie je
 Przelew taki wynosi **5zł**, ale wpłatę możesz dobrowolnie powiększyć, jeśli chcesz się dorzucić do utrzymania serwera.
 
 
-> 🆘 Reinstalacja lub odzyskanie hasła? Sprawdź nasz portal: [https://ssp.frog01.mikr.us/](https://ssp.frog01.mikr.us/login)
+> 🆘 Reinstalacja lub odzyskanie hasła? Sprawdź nasz portal: <https://ssp.frog01.mikr.us/> oraz <https://ssp.frog02.mikr.us/>
 
 > 👉🏻 Loginem do portalu jest 3 (lub 4) cyfrowy  ID, czyli jak Twój Frog ma w nazwie f1**853**, to Twoim ID jest 853.
 
@@ -36,7 +36,7 @@ Serwery “Frog” posiadają ’wsparcie społecznościowe’ świadczone w dwo
 - [Na grupie na Facebooku](https://mikr.us/facebook)
 - [Na Discordzie](https://mikr.us/discord)
 
-Ze względu na to, że jest to oferta bezpłatna, wsparcie techniczne dla tych serwerów (świadczone przez Administratorów) ogranicza się jedynie do reinstalacji systemu oraz udostępnienia backupu systemu w razie zupełnego uszkodzenia serwera przez Użytkownika. W razie poważnych problemów możesz pisać na frog@mikr.us. Reinstalacje możesz wykonać sam w [SSP](https://ssp.frog01.mikr.us/login)
+Ze względu na to, że jest to oferta bezpłatna, wsparcie techniczne dla tych serwerów (świadczone przez Administratorów) ogranicza się jedynie do reinstalacji systemu oraz udostępnienia backupu systemu w razie zupełnego uszkodzenia serwera przez Użytkownika. W razie poważnych problemów możesz pisać na frog@mikr.us. Reinstalacje możesz wykonać sam w SSP ([frog01](https://ssp.frog01.mikr.us/login), [frog02](https://ssp.frog02.mikr.us/login))
 
 > 💡 [Tutaj znajdziesz podstawy obsługi Linuxa Alpine](alpine)
 
