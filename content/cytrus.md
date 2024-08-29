@@ -4,8 +4,11 @@ Cytrus jest usługą współdzielonego serwera WWW (jest to Nginx), dzięki któ
 
 Usługa ta natywnie wspiera strony statyczne oraz te tworzone w języku PHP (np. Wordpress).
 
-> 💡 Jeśli chcesz dodać własną domenę do Cytrusa, musisz wycelować jej wpis “A” w IP:
+> 💡 Jeśli chcesz dodać własną DOMENĘ do Cytrusa, musisz wycelować jej wpis “A” w IP:
 > **135.181.95.85**
+
+> 💡 Jeśli chcesz dodać własną SUBDOMENĘ do Cytrusa, musisz wycelować jej wpis “CNAME” w:
+> **backend.strony.me**
 
 **Dodatkowe zalety Cytrusa, to:**
 
