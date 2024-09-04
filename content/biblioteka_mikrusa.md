@@ -27,7 +27,7 @@ Baza wiedzy jest systematycznie uzupełniana o nowe znaleziska. Chcesz coś do n
 * [Jak pisać jednolinijkowce w PERLu](https://www.youtube.com/watch?v=9OmFb8-KFQA)
 * [Jak bezpiecznie obsługiwać pliki/katalogi tymczasowe w swoich skryptach?](https://www.netmeister.org/blog/mktemp.html)
 * [Backup serwera do AWS S3 (z użyciem restic)](https://jarv.is/notes/how-to-backup-linux-server/)
-* [Jak działa Apache Kawka (wyjaśnienie na poziomie 5-letniego dziecka)](https://www.gentlydownthe.stream/)
+* [Jak działa Apache Kafka (wyjaśnienie na poziomie 5-letniego dziecka)](https://www.gentlydownthe.stream/)
 * [Podstawy konfiguracji .htaccess dla Apache](https://github.com/phanan/htaccess)
 * [Wyjaśnienie terminologii związanej z kontenerami i konteneryzacją](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction)
 * [Zarządzanie backupami przez przeglądarkę (rdiffweb)](https://opensource.com/article/20/10/rdiffweb)
