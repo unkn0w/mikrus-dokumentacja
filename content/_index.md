@@ -1,6 +1,6 @@
 # MIKR.US - Don't Panic!
 
-Poniżej znajdziesz wszytko, co jest Ci potrzebne do rozpoczęcia przygody z serwerami Mikrusa. 
+Poniżej znajdziesz wszystko, co jest Ci potrzebne do rozpoczęcia przygody z serwerami Mikrusa. 
 
 > 💡 Szukasz informacji specyficznych dla serwera [frog?](frog) 🐸 
 
