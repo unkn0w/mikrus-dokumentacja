@@ -2,6 +2,8 @@
 
 Postawienie tzw. LAMP (Linux + Apache + PHP + MySQL) jest skrajnie proste i ogranicza się do wydania dosłownie kilku poleceń.
 
+Wszystkie komendy poniżej musisz uruchamiać albo jako `root` albo wpisać przed komendą `sudo`
+
 Po pierwsze, zaktualizuj repozytorium pakietów
 
 ```bash
