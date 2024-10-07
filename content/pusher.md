@@ -42,7 +42,7 @@ Jeśli z jakiegoś powodu na Twoim serwerze nie ma pushera, to:
 - Zainstaluj narzędzie CURL
 - Ściągnij pushera z adresu [https://mikr.us/tools/pusher](https://mikr.us/tools/pusher)
 - skopiuj pushera do np. /usr/bin/pusher
-- spaw, aby pusher był wykonywalny:
+- spraw, aby pusher był wykonywalny:
 
 ```bash
 chmod +x /usr/bin/pusher
