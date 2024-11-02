@@ -8,6 +8,8 @@ Serwery ‘Frog’ to VPS-y z darmowej oferty Mikrusa (<https://mikr.us/>).
 
 Możesz posiadać **JEDEN** taki serwer.
 
+> Zobacz też na [częste pytania i odpowiedzi](faq).
+
 Do aktywacji serwera konieczne jest wykonanie “opłaty aktywacyjnej”. Nie jest to opłata abonamentowa (bo nie posiadasz żadnego abonamentu), a jedynie przelew weryfikacyjny.
 
 Przelew taki wynosi **5zł**, ale wpłatę możesz dobrowolnie powiększyć, jeśli chcesz się dorzucić do utrzymania serwera.
