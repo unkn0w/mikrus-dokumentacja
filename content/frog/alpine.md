@@ -1,6 +1,5 @@
 ## Podstawy obsługi Linuxa Alpine
 
-</style>
 
 Do pracy z paczkami używa się aplikacji “**APK**” (to coś jak APT z Debiana/Ubuntu). Uruchomisz ją z roota lub przez sudo.
 
